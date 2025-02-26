@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Build a Dynamic To-Do List Application in React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Description
+Create a React application that allows users to manage a to-do list with the following features:
+* Add new tasks
+* Mark tasks as complete
+* Delete tasks
+* Filter tasks by all, completed, and pending
+* Persist tasks in the local storage so that they are retained after a page refresh
 
 ## Available Scripts
 
